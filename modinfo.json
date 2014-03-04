@@ -1,0 +1,19 @@
+{
+    "context": "client",
+    "identifier": "com.pa.werty.wScriptSource",
+    "display_name": "wScriptSource",
+    "description": "[mod debug tool] Enables easy breakpoints and clean overview of all mod sources in the Coherent UI Debugger. Warning: Shadows common.js to include <script>s into <head> by src and not by appending text.",
+    "author": "The Magnificent Werty",
+    "version": "0.1.0",
+    "build": "61450",
+    "date": "2014/03/03",
+    "forum": "",
+    "icon": "",
+    "category": [
+        "in-game",
+        "ui"
+    ],
+    "id": "wScriptSource",
+    "priority": 100,
+    "enabled": true
+}
